@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "provider_signups",
+  "info": {
+    "singularName": "provider-signup",
+    "pluralName": "provider-signups",
+    "displayName": "provider-signup"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone_number": {
+      "type": "integer"
+    },
+    "password": {
+      "type": "password"
+    }
+  }
+}

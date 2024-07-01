@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "update_passwords",
+  "info": {
+    "singularName": "update-password",
+    "pluralName": "update-passwords",
+    "displayName": "update_password"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    }
+  }
+}
