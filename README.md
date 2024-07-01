@@ -1,3 +1,6 @@
+![image](https://github.com/rkrakhikumari/xzect_task6/assets/146644990/c5c0cc5c-c129-4849-90af-2bd0b36cc3fe)
+
+
 ![image](https://github.com/rkrakhikumari/xzect_task6/assets/146644990/0697a679-d07a-47c8-985d-f0191db2cbd8)
 
 
